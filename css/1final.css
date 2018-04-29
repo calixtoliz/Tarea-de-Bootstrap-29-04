@@ -1,0 +1,32 @@
+.color_rosa{
+    background-color: hotpink;
+    height:60px;
+}
+.color_verde{
+    background-color: palegreen;
+    height: 60px;
+   
+}
+.color_rojo{
+    background-color:rgb(235, 18, 18);
+    height:60px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 20px 20px 20px;
+    grid-gap: 20px;
+}
+
+.color_naranja{
+    background-color:rgb(233, 153, 5);
+    height:60px;
+
+
+}
+
+.color_blanco{
+    background-color:rgb(241, 239, 235);
+    height:60px;
+
+}

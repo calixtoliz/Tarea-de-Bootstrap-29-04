@@ -1,0 +1,25 @@
+
+.color_azul{
+    background-color: darkblue;
+    height: 150px;
+}
+.color_rosa{
+    background-color: palevioletred;
+    height: 150px;
+}
+
+.color_gris{
+    background-color: gray;
+    height: 50px;
+}
+
+
+.color_rojo{
+    background-color: red;
+    height: 50px;
+
+}
+.colo_naranja{
+    background-color: orangered;
+    height: 50px;
+}
